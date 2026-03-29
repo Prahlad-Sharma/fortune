@@ -129,8 +129,8 @@ export default function Profile() {
       {/* Footer */}
       <div className="prof-footer">
         <div className="prof-footer-logo">🎰</div>
-        <div className="prof-footer-name">Lucky Fortune Casino</div>
-        <div className="prof-footer-dev">Developed by Lucky Fortune · 2025</div>
+        <div className="prof-footer-name"> Ttiranga colour game </div>
+        <div className="prof-footer-dev">Developed by tirangacolourgame 2026</div>
       </div>
     </div>
   );
